@@ -10,4 +10,4 @@ vendor/
 *.test
 
 # ambiente local
-*.env
+.env
