@@ -1,0 +1,13 @@
+# binários
+/bin/
+/tmp/
+*.exe
+
+# módulos externos
+vendor/
+
+# arquivos do Go
+*.test
+
+# ambiente local
+*.env
